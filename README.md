@@ -82,6 +82,6 @@ Avatars are optional and can be uploaded while editing a user. Genuine JPG/JPEG 
 
 The migration adds a nullable password column to `users` without replacing existing tables or records. Run this project against its separate `pos_db_tfa4` database, not the TFA3/live database.
 
-## Source repository
+## Repositories
 
-The original TFA3 project is at [https://github.com/Uangking/TSA-3-WST](https://github.com/Uangking/TSA-3-WST). This TFA4 copy has no configured GitHub remote.
+This TFA4 project is published at [https://github.com/Uangking/TSA-4-WST](https://github.com/Uangking/TSA-4-WST). The original TFA3 project is at [https://github.com/Uangking/TSA-3-WST](https://github.com/Uangking/TSA-3-WST).
